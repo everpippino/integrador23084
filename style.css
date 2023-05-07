@@ -1,0 +1,12 @@
+.carousel-inner img {
+    max-width: 100%;
+    height: auto;
+  }
+
+.carousel-item{
+    height: auto;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+  
